@@ -147,3 +147,13 @@ Visualizations are stored in the images/ directory and embedded in the notebook.
 - Informed Investment: Empowers stakeholders with data-backed forecasting.
 
 - ML Ready: Cleaned dataset prepared for future predictive modeling.
+
+## Team
+This project was collaboratively developed by:
+
+- *Frankline Ondieki* ([email](mailto:ondiekifrank021@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/frankline-ondieki-39a61828a/)
+- *Pacificah Kwamboka Asamba* ([email](mailto:sikamboga1@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/pacificah-omboga-42959b83/)
+- *Diana Macharia* ([email](mailto:hellendiana091@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/hellen-diana-njeri)
+- *Mathews Odongo* ([email](mailto:wandera59@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/mathews-odongo-9a2541368?trk=contact-info)
+- *Nightingale Jeptoo* ([email](mailto:nightingalemib@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/jeptoo-nightingale-36131741/)
+- *Tinah Ngei* ([email](mailto:tinahngei@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/tinah-ngei-4b411386/)
