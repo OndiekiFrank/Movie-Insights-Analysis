@@ -74,3 +74,14 @@ To run this project locally:
 ```bash
 git clone https://github.com/OndiekiFrank/Movie-Insights-Analysis.git
 cd Movie-Insights-Analysis
+```
+
+### 2 Create a virtual environment
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use venv\Scripts\activate
+```
+### 3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
