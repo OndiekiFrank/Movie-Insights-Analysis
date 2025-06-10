@@ -95,3 +95,13 @@ unzip im.db.zip
 ```bash
 jupyter notebook .
 ```
+## Exploratory Data Analysis (EDA)
+**Key EDA findings include:**
+
+- Wide variation in profitability across genres.
+
+- Budget correlates positively with worldwide gross.
+
+- High popularity doesn't always equate to high ratings or revenue.
+
+- Most movies cluster in the $10M–$100M budget range.
