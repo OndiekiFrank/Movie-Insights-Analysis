@@ -65,3 +65,12 @@ Movie-Insights-Analysis/
 │ └── (Saved plots and figures)
 ├── README.md
 └── .gitignore
+
+## Installation & Setup
+
+To run this project locally:
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/OndiekiFrank/Movie-Insights-Analysis.git
+cd Movie-Insights-Analysis
