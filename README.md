@@ -91,3 +91,7 @@ pip install -r requirements.txt
 cd datasets
 unzip im.db.zip
 ```
+### 5. Launch Jupyter Notebook
+```bash
+jupyter notebook .
+```
