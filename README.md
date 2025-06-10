@@ -107,6 +107,10 @@ jupyter notebook .
 - Most movies cluster in the $10M–$100M budget range.
 
 ## Visualizations
+
+### Tableu([link](https://public.tableau.com/app/profile/mathews.odongo/viz/movies_insights/Movie-Insights?publish=yes))
+
+
 **We used matplotlib and seaborn for the following plots:**
 
 - Revenue by Genre
