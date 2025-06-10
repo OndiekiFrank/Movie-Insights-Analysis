@@ -118,3 +118,5 @@ jupyter notebook .
 - Heatmap of Correlation Between Numeric Features
 
 Visualizations are stored in the images/ directory and embedded in the notebook.
+
+![Most Common Genres](images/Mostcommongenres.png)
