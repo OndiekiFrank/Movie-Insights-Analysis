@@ -120,3 +120,12 @@ jupyter notebook .
 Visualizations are stored in the images/ directory and embedded in the notebook.
 
 ![Most Common Genres](images/Mostcommongenres.png)
+
+## Insights
+- Budget Efficiency: Higher budgets often lead to higher gross but do not guarantee profitability.
+
+- Genre Patterns: Action, Adventure, and Animation tend to dominate global box offices.
+
+- Audience Ratings: Critical acclaim and audience popularity are not always aligned.
+
+- Studio Strength: Some studios consistently outperform competitors in ROI and reach.
