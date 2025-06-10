@@ -138,3 +138,12 @@ Visualizations are stored in the images/ directory and embedded in the notebook.
 - Combine audience analytics with critic reviews for better market targeting.
 
 - Use popularity trends (e.g. on TMDb) to plan pre-release buzz.
+
+## Conclusion & Business Value
+- Strategic Planning: Helps studios allocate budgets more effectively.
+
+- Smart Releases: Optimized timing and genre planning.
+
+- Informed Investment: Empowers stakeholders with data-backed forecasting.
+
+- ML Ready: Cleaned dataset prepared for future predictive modeling.
