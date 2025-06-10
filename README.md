@@ -85,3 +85,9 @@ source venv/bin/activate  # On Windows use venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+
+### 4. Unzip the IMDb database
+```bash
+cd datasets
+unzip im.db.zip
+```
