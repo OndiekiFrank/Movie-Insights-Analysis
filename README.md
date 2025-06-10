@@ -180,3 +180,6 @@ git merge branch-name
 *.zip
 datasets/
 ```
+
+## License
+This project is licensed for educational use under the MIT License.
