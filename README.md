@@ -1,0 +1,52 @@
+# Movie Insights Analysis
+
+![Avengers Banner](images/Avanger1.jpeg)
+
+Welcome to the *Movie Insights Analysis* project! This project is part of the Flatiron Phase 2 Data Science curriculum and is aimed at uncovering strategic business insights from multiple movie industry datasets. The final goal is to assist studios and stakeholders in making data-driven decisions related to film production, budgeting, and release strategies.
+
+---
+
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Datasets Used](#datasets-used)
+- [Directory Structure](#directory-structure)
+- [Installation & Setup](#installation--setup)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Visualizations](#visualizations)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+- [Conclusion & Business Value](#conclusion--business-value)
+- [Team](#team)
+- [License](#license)
+
+---
+
+## Project Description
+
+This project merges, cleans, and analyzes movie data from diverse sources including IMDb, Rotten Tomatoes, The Numbers, TMDb, and Box Office Mojo. Through EDA, visualization, and statistical tests, it reveals patterns that drive revenue, audience reception, and market trends.
+
+The ultimate goal is to guide studios in:
+- Identifying profitable genres and budget ranges.
+- Understanding relationships between critical ratings and audience popularity.
+- Making smarter production and release decisions based on data.
+
+---
+
+## Datasets Used
+
+All data files are located in the datasets/ folder:
+
+| File Name | Source |
+|----------|--------|
+| bom.movie_gross.csv.gz | Box Office Mojo |
+| tn.movie_budgets.csv.gz | The Numbers |
+| tmdb.movies.csv.gz | TMDb |
+| rt.movie_info.tsv.gz, rt.reviews.tsv.gz | Rotten Tomatoes |
+| im.db (from im.db.zip) | IMDb SQLite DB |
+
+> All sources were publicly available and used for educational purposes.
+
+---
+
+## Directory Structure
