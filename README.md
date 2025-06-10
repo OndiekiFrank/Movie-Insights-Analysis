@@ -157,3 +157,26 @@ This project was collaboratively developed by:
 - *Mathews Odongo* ([email](mailto:wandera59@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/mathews-odongo-9a2541368?trk=contact-info)
 - *Nightingale Jeptoo* ([email](mailto:nightingalemib@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/jeptoo-nightingale-36131741/)
 - *Tinah Ngei* ([email](mailto:tinahngei@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/tinah-ngei-4b411386/)
+
+## Useful Commands for Git Collaboration
+```bash
+# Add and commit your changes
+git add .
+git commit -m "Your message here"
+
+# Push to your branch
+git push origin your-branch-name
+
+# Create and switch to a new branch
+git checkout -b branch-name
+
+# Merge a branch into main
+git checkout main
+git merge branch-name
+
+# Ignore data files (in .gitignore)
+*.csv.gz
+*.db
+*.zip
+datasets/
+```
