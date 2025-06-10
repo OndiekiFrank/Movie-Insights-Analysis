@@ -50,3 +50,18 @@ All data files are located in the datasets/ folder:
 ---
 
 ## Directory Structure
+
+Movie-Insights-Analysis/
+├── datasets/
+│ ├── bom.movie_gross.csv.gz
+│ ├── tn.movie_budgets.csv.gz
+│ ├── tmdb.movies.csv.gz
+│ ├── rt.movie_info.tsv.gz
+│ ├── rt.reviews.tsv.gz
+│ └── im.db.zip
+├── notebooks/
+│ └── movie_analysis_notebook.ipynb
+├── images/
+│ └── (Saved plots and figures)
+├── README.md
+└── .gitignore
