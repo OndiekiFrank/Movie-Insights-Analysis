@@ -105,3 +105,16 @@ jupyter notebook .
 - High popularity doesn't always equate to high ratings or revenue.
 
 - Most movies cluster in the $10M–$100M budget range.
+
+## Visualizations
+**We used matplotlib and seaborn for the following plots:**
+
+- Revenue by Genre
+
+- Budget vs Gross Revenue Scatter
+
+- Popularity vs Rating Density
+
+- Heatmap of Correlation Between Numeric Features
+
+Visualizations are stored in the images/ directory and embedded in the notebook.
