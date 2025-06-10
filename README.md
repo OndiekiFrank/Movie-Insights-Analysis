@@ -129,3 +129,12 @@ Visualizations are stored in the images/ directory and embedded in the notebook.
 - Audience Ratings: Critical acclaim and audience popularity are not always aligned.
 
 - Studio Strength: Some studios consistently outperform competitors in ROI and reach.
+
+## Recommendations
+- Invest strategically in high-performing genres (Action, Animation).
+
+- Avoid budget bloat unless justified by past performance of similar titles.
+
+- Combine audience analytics with critic reviews for better market targeting.
+
+- Use popularity trends (e.g. on TMDb) to plan pre-release buzz.
