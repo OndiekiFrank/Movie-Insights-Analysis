@@ -1,0 +1,29 @@
+# Core Data Analysis
+pandas==1.5.3
+numpy==1.23.5
+
+# Data Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter Notebooks
+jupyterlab==3.6.3
+ipykernel==6.25.2
+
+# SQL and SQLite handling
+sqlalchemy==1.4.49
+sqlite3-binary
+
+# Tableau-friendly CSV exports
+openpyxl==3.1.2
+xlsxwriter==3.1.2
+
+# Stats and hypothesis testing
+scipy==1.10.1
+statsmodels==0.13.5
+
+# File handling
+python-dotenv==1.0.1
+
+# Optional (for interactive plots)
+plotly==5.14.1
